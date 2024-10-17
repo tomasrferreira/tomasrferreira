@@ -25,11 +25,12 @@
 
 ### Stats 
  
- [![tomasrferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrferreira&count_private=true&include_all_commits=true&count_private=true&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![tomasrferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrferreira&count_private=true&include_all_commits=true&show_icons=true&hide=issues&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasrferreira&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=TRABALHO-2_DA&&hide=Makefile,Cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasrferreira&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=TRABALHO-2_DA&hide=Makefile,CMake)](https://github.com/anuraghazra/github-readme-stats)
+
  
 ### Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasgrferreira/)
-<a style="text-decoration: none;" href="tomas.r.ferreira@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a style="text-decoration: none;" href="mailto:tomas.r.ferreira@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" /></a>
