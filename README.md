@@ -25,7 +25,7 @@
 
 ### Stats 
  
-[![tomasrferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrferreira&count_private=true&include_all_commits=true&show_icons=true&hide=issues&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![tomasrferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasrferreira&count_private=true&include_all_commits=true&show_icons=true&hide=issues&theme=tokyonight&cache_seconds=0)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasrferreira&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=TRABALHO-2_DA&hide=Makefile,CMake)](https://github.com/anuraghazra/github-readme-stats)
 
