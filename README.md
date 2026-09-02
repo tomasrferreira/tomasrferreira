@@ -3,7 +3,7 @@
 ### About me
 
 - 🎓 I'm Tomás Ferreira, I'm a third-year student of Informatics and Computing Engineering at FEUP.
-- 🔬 I'm currently working as a Lifeguard at [OsDelfins](https://www.ans-delfins.com/).
+- 🔬 I'm currently working as a Lifeguard at [OsGolfinhos]((https://ans-golfinhos.com/)).
 
 ### My Skills
 
