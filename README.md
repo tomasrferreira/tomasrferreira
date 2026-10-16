@@ -23,8 +23,8 @@
 
 ### Stats
 
-[![tomasrferreira GitHub stats](https://github-readme-stats-blush-omega-62.vercel.app/api?username=tomasrferreira&show_icons=true&count_private=true&include_all_commits=true&hide=issues&hide_rank=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-blush-omega-62.vercel.app/api/top-langs/?username=tomasrferreira&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=TRABALHO-2_DA&hide=Makefile,CMake&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![tomasrferreira GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contacts
 
