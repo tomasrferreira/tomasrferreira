@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🎓 I'm Tomás Ferreira, I'm a third-year student of Informatics and Computing Engineering at FEUP.
+- 🎓 I'm Tomás Ferreira, I'm a final year student of Informatics and Computing Engineering at FEUP.
 - 🛟 I'm currently working as a Lifeguard at [Os Golfinhos](https://ans-golfinhos.com/).
 
 ### My Skills
