@@ -1,14 +1,14 @@
 
       <svg
-        width="380.93333148956293"
+        width="599.1999964714051"
         height="170"
-        viewBox="0 0 380.93333148956293 170"
+        viewBox="0 0 599.1999964714051 170"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Tom&#225;s Ferreira&#39;s GitHub Stats, Rank: C</title>
+        <title id="titleId">Tom&#225;s Gon&#231;alves Ribeiro Ferreira&#39;s GitHub Stats, Rank: C</title>
         <desc id="descId">Total Stars Earned: 4, Total Commits  : 52, Total PRs: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="379.93333148956293"
+          width="598.1999964714051"
           fill="#1a1b27"
           stroke-opacity="1"
         />
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Tom&#225;s Ferreira&#39;s GitHub Stats</text>
+      >Tom&#225;s Gon&#231;alves Ribeiro Ferreira&#39;s GitHub Stats</text>
     </g>
       </g>
     
